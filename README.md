@@ -1,6 +1,6 @@
 # :wave: The Basics of Git and GitHub 
 
-Luke Miletta
+Luke Miletta is the best 
 
 
 ## 🤓 Course overview and learning outcomes 
